@@ -1,7 +1,7 @@
 ﻿{
   "name": "team.e-s.unity.unisync",
   "version": "1.0.0",
-  "displayName": "Uni Sync",
+  "displayName": "UniSync",
   "description": "Provides synchronization mechanism for processes in the Unity Editor Application.",
   "unity": "6000.0",
   "keywords": [
